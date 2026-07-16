@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Saad Bin Haroon
 
-<!--
-**Saad-Bin-Haroon/Saad-Bin-Haroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineering Student | AI Automation Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 BS Artificial Intelligence student
+- 🤖 Learning AI Automation with n8n
+- 🐍 Python Developer
+- 🌱 Currently improving AI Engineering skills
+
+### 💻 Tech Stack
+- Python
+- n8n
+- Flask
+- MySQL
+- Git
+- GitHub
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Saad-Bin-Haroon&show_icons=true&theme=nord)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-Bin-Haroon&layout=compact&theme=nord)
+
+![Streak](https://streak-stats.demolab.com?user=Saad-Bin-Haroon&theme=nord)
+
+### 📫 Connect
+- GitHub: https://github.com/Saad-Bin-Haroon
+
+---
+⭐ Thanks for visiting my profile!
